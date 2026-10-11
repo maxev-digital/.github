@@ -2,7 +2,7 @@
 
 AI-native engineering — production systems, not demos.
 
-**Founded by Will Peterson** — Solutions Architect & Forward Deployed Engineer at Wolters Kluwer. Previously 6 solo FDE client engagements shipped to production in an average of 6 weeks.
+**Founded by Will Peterson** — Solutions Architect & Forward Deployed Engineer at Wolters Kluwer. Previously 6 solo FDE client engagements shipped to production in an average of 2 weeks till first deploy and 4 weeks for final product.
 
 ### What's Here
 
